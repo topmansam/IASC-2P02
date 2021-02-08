@@ -4,7 +4,7 @@ Weclome to my online portfolio for IASC 2P02
 
 ## INTERACTIVE SUTDY GUIDE
 
-Explore my interactive study guide here [here](InteractiveStudyGuide.html)
+Explore my interactive study guide [here](InteractiveStudyGuide.html)
 
 ## INTERACTIVE GENEALOGY
 
