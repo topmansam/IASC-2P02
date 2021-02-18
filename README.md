@@ -11,7 +11,7 @@ Explore my interactive study guide [here](InteractiveStudyGuide.html)
 Explore my interactive genealogy [here]
 
 # Speculative fiction
-Explore my Speeculative fiction [here]
+Explore my Speeculative fiction [here](ShortStory.docx)
 
 ## Title of your story here
 
