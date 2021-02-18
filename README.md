@@ -13,7 +13,7 @@ Explore my interactive genealogy [here]
 # Speculative fiction
 Explore my Speeculative fiction [here](ShortStory.docx)
 
-## Title of your story here
+## An Imaginary version of 2015 where GPS never existed
 
 ## Micro essay
 Explore my Micro essay [here](MicroEssay.docx)
