@@ -11,9 +11,12 @@ Explore my interactive study guide [here](InteractiveStudyGuide.html)
 Explore my interactive genealogy [here]
 
 # Speculative fiction
+Explore my Speeculative fiction [here]
 
 ## Title of your story here
 
 ## Micro essay
+Explore my Micro essay [here]
+
 
 # Interactive timeline
