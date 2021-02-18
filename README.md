@@ -16,7 +16,7 @@ Explore my Speeculative fiction [here]
 ## Title of your story here
 
 ## Micro essay
-Explore my Micro essay [here]
+Explore my Micro essay [here](MicroEssay.docx)
 
 
 # Interactive timeline
